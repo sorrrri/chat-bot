@@ -44,9 +44,9 @@ div.admin {width:100%; height:100%; display:flex}
 
 /* Icon */
 i {display:inline-block; background-position:center; background-repeat:no-repeat; vertical-align:middle;}
-i.bot, i.cs {background-image:url(../images/remo.png); background-position:top 6px left -5px !important; -ms-background-position-y:7px !important; background-size:110%}
+i.bot, i.cs {background-image:url(../images/remo.svg); background-position:top 6px left -5px !important; -ms-background-position-y:7px !important; background-size:110%}
 i.cs {background-color:#FFCC33 !importan;}
-i.remo {background:url(../images/remo.png) center no-repeat; background-size:contain}
+i.remo {background:url(../images/remo.svg) center no-repeat; background-size:contain}
 i.remo-heart {background-image:url(../images/remo-heart.svg); margin:.5rem auto !important;}
 
 /* Icon - Menu */
